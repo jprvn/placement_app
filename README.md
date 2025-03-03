@@ -1,3 +1,4 @@
+HEAD
 # Placement Eligibility Streamlit Application
 
 ## Overview
@@ -33,3 +34,6 @@ The `data_generator.py` script uses the Faker library to generate synthetic stud
 - Generates realistic student details.
 - Inserts 100 records into the Students table of the SQLite database.
 - Similar scripts (or extended functions) can be used to generate data for the Programming, Soft Skills, and Placements tables.
+
+# placement_app
+b45d612 (Initial commit)
