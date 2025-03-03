@@ -25,4 +25,11 @@ This project is designed to build a data-driven Streamlit application for managi
 
 - **Clone the Repository:**
   ```bash
-  git clone https://github.com/yourusername/placement_project.git
+  git clone https://github.com/jprvn/placement_app.git
+  
+## Synthetic Data Generation
+
+The `data_generator.py` script uses the Faker library to generate synthetic student data. It:
+- Generates realistic student details.
+- Inserts 100 records into the Students table of the SQLite database.
+- Similar scripts (or extended functions) can be used to generate data for the Programming, Soft Skills, and Placements tables.
