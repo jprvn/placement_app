@@ -34,10 +34,6 @@ st.dataframe(df)
 
 st.write("### Additional Insights")
 st.write("Use the SQL queries provided in the documentation for deeper analysis.")
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> d67d591 (added for sql insights)
 
 
 import streamlit as st
@@ -48,8 +44,3 @@ st.dataframe(average_programming_per_batch())
 
 st.write("## Top 5 Students Ready for Placement")
 st.dataframe(top_5_students_ready())
-<<<<<<< HEAD
-=======
->>>>>>> eb4edb7 (Add Streamlit application for filtering eligible students)
-=======
->>>>>>> d67d591 (added for sql insights)
